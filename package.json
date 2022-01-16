@@ -1,0 +1,12 @@
+{
+  "name": "xonadoshlar",
+  "version": "1.0.0",
+  "description": "bu xonadoshlar boti 116",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["bizda yurakdan jigar ustun"],
+  "author": "",
+  "license": "ISC"
+}
